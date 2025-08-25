@@ -36,7 +36,7 @@ or download the zip file.
 Go to the project directory
 
 ```bash
-  cd VIDEO-CONNECT-MAIN
+  cd VIDEO-CONNECT
 ```
 
 Install dependencies

@@ -29,7 +29,7 @@ GMeet Clone is a video conferencing application inspired by Google Meet. It allo
 Clone the project
 
 ```bash
-  git clone https://github.com/abhi280403/google_meet_clone.git
+  git clone https://github.com/bhargavareddy91/VIDEO-CONNECT
 ```
 or download the zip file.
 
@@ -59,8 +59,6 @@ http://localhost:3000
 
 ## Demo video
 
-
-https://github.com/abhi280403/google_meet_clone/assets/122891629/c2a27062-41d1-41f8-a735-d44a9e45100a
 
 
 

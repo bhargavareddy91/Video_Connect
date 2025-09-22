@@ -1,5 +1,5 @@
 
-# GOOGLE_MEET_CLONE
+# Video_Connect
 
 GMeet Clone is a video conferencing application inspired by Google Meet. It allows users to host and join virtual meetings, enabling real-time audio and video communication. This application is built using modern web technologies and frameworks, providing a seamless and interactive meeting experience.
 

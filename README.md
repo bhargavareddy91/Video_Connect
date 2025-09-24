@@ -59,7 +59,7 @@ http://localhost:3000
 
 ## Demo video
 
-
+https://github.com/user-attachments/assets/287e44d2-650b-4582-ac8c-1779fd872485
 
 
 

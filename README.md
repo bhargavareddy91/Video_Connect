@@ -33,12 +33,6 @@ Clone the project
 ```
 or download the zip file.
 
-Go to the project directory
-
-```bash
-  cd Video_Connect
-```
-
 Install dependencies
 
 ```bash
